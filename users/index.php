@@ -170,7 +170,7 @@ else
     <script>
     // $.backstretch("assets/img/images6.png", {speed: 5000, fade: 5000});
     $.backstretch("assets/img/img1.jfif", {
-        speed: 500
+        speed: 5000
     });
     </script>
 

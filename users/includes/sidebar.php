@@ -45,7 +45,7 @@
             <li class="sub-menu">
                 <a href="register-complaint.php">
                     <i class="fa fa-book"></i>
-                    <span>Lodge Complaint</span>
+                    <span>Launch Complaint</span>
                 </a>
             </li>
             </li>
