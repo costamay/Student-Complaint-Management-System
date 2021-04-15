@@ -22,7 +22,7 @@
 							<ul class="dropdown-menu">
 								<li><a href="change-password.php">Change Password</a></li>
 								<li class="divider"></li>
-								<li><a href="http://localhost/students_complaint_management_system">Logout</a></li>
+								<li><a href="../index.html">Logout</a></li>
 							</ul>
 						</li>
 					</ul>

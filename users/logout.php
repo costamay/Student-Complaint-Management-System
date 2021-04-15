@@ -9,5 +9,5 @@ session_unset();
 
 ?>
 <script language="javascript">
-document.location="index.php";
+document.location="index.html";
 </script>

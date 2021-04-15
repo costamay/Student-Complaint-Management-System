@@ -7,7 +7,7 @@
                 
             <div class="top-menu">
             	<ul class="nav pull-right top-menu">
-                    <li><a class="logout" href="http://localhost/students_complaint_management_system">Logout</a></li>
+                    <li><a class="logout" href="../index.html">Logout</a></li>
             	</ul>
             </div>
         </header>
