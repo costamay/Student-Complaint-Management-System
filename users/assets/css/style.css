@@ -843,7 +843,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 .box1 {
 	padding: 15px;
 	text-align: center;
-	color: #989898;
+	/* color: #989898; */
 	border-bottom: 1px solid #989898;
 }
 
@@ -856,7 +856,7 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 	text-align: center;
 }
 
-.box0:hover .box1 {
+.box0 .box1 {
 	border-bottom: 1px solid #ffffff;
 }
 
@@ -866,13 +866,36 @@ ul.top-menu > li > a:hover, ul.top-menu > li > a:focus {
 	color: #f2f2f2;
 }
 
-.box0:hover p {
-	color: #ff865c;
+.box0 p {
+	color: #fff;
+    font-size: 13px;
+}
+.box0  h3 {
+	color: #fff;
+    
+}
+.box0 .li_news {
+	color: #fff;
+    
 }
 
-.box0:hover {
-	background: #ffffff;
-	box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+.box0 {
+	/* background: #ffffff;
+    background: #fac552;
+	box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2); */
+    /* color: white; */
+}
+.box01{
+    background: #ce2916;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+.box02{
+    background: #fac552;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+.box03{
+    background: #3cbc8d;
+    box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 /* MAIN CHART CONFIGURATION */

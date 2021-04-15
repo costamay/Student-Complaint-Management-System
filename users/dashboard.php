@@ -26,7 +26,7 @@ else{ ?>
     <link rel="stylesheet" type="text/css" href="assets/css/zabuto_calendar.css">
     <link rel="stylesheet" type="text/css" href="assets/js/gritter/css/jquery.gritter.css" />
     <link rel="stylesheet" type="text/css" href="assets/lineicons/style.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <!-- Custom styles for this template -->
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/style-responsive.css" rel="stylesheet">
@@ -61,7 +61,7 @@ else{ ?>
 
 
 
-                        <div class="col-md-2 col-sm-2 box0">
+                        <div class="col-md-3 col-sm-2 box0 box01 animate__animated animate__rotateInUpLeft">
                             <div class="box1">
                                 <span class="li_news"></span>
                                 <?php 
@@ -76,7 +76,7 @@ else{ ?>
                         <?php }?>
 
 
-                        <div class="col-md-2 col-sm-2 box0">
+                        <div class="col-md-3 col-sm-2 box0 box02 animate__animated animate__rotateInUpLeft">
                             <div class="box1">
                                 <span class="li_news"></span>
                                 <?php 
@@ -90,7 +90,7 @@ else{ ?>
                         </div>
                         <?php }?>
 
-                        <div class="col-md-2 col-sm-2 box0">
+                        <div class="col-md-3 col-sm-2 box0 box03 animate__animated animate__rotateInUpLeft">
                             <div class="box1">
                                 <span class="li_news"></span>
                                 <?php 
