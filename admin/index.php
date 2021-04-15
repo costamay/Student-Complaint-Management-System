@@ -60,7 +60,7 @@ exit();
 				
 					<ul class="nav pull-right">
 
-						<li><a href="http://localhost/students_complaint_management_system">
+						<li><a href="../index.html">
 						Home
 						
 						</a></li>
