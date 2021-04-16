@@ -1,5 +1,5 @@
 <?php
-//Remote connection
+// Remote connection
 define('DB_SERVER','grp6m5lz95d9exiz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
 define('DB_USER','yy7ba6oxj8qw88st');
 define('DB_PASS' ,'xojgkshgmzfuxtax');
